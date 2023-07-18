@@ -1,3 +1,18 @@
 *{
-    background-color: black;
+    color: white;
+    background-color: blueviolet;
+    text-align: left;
+}
+.links {
+    color: black;
+}
+.inst {
+    color: aliceblue;
+}
+img {
+    width: 780px;
+    height: auto;
+}
+.pagehead {
+    color: violet;
 }
