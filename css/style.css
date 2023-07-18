@@ -16,3 +16,7 @@ img {
 .pagehead {
     color: violet;
 }
+#list-head {
+    color: wheat;
+    background-color: black;
+}
